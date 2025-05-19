@@ -25,11 +25,6 @@ This interactive HR dashboard was created as part of my Power BI learning journe
 ## Live Preview
 [Optional: Upload screenshots or link to a blog/GitHub Pages if hosted]
 
-## Screenshots
-![Overview](images/overview.png)
-![Demographics](images/demographics.png)
-![Performance Tracker](images/performance.png)
-![Attrition](images/attrition.png)
 
 ## Author
 **Aneseya Barr**  
